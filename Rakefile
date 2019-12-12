@@ -32,7 +32,7 @@ DESC
   s.require_path = "lib"
   s.autorequire = "semacode"
   s.test_files = FileList["{tests}/**/*test.rb"].to_a
-  s.has_rdoc = true
+#  s.has_rdoc = true
   s.extra_rdoc_files = ["README"]
 end
  
